@@ -20,4 +20,4 @@ Throughput: 1 result per cycle
 Simulated using Icarus Verilog and verified with GTKWave waveform analysis.
 
 **Tools Used**
-Verilog HDL, Icarus Verilog, GTKWave, VS Code, GitHub
+Icarus Verilog, GTKWave, VS Code, GitHub
